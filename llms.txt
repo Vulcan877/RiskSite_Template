@@ -1,0 +1,31 @@
+# [Company Name]
+
+## About
+[Company Name] is an independent risk management advisory firm serving [Region].
+We provide outsourced risk management oversight for businesses, non-profits, and
+high-net-worth families. We are not a broker and not an agency — we sit on the
+client's side of the table, free of commissions and carrier appointments.
+
+## Services
+- Enterprise-wide risk assessment and gap analysis for businesses and non-profits
+- Broker and carrier oversight and renewal management
+- Board-ready reporting and claims advocacy
+- Personal risk review across property, liability, and life for families
+- Coordination of advisors, carriers, and estate plans
+
+## Location
+[Region], United States
+
+## Contact
+- Website: https://yourdomain.com
+- Email: [ hello@yourdomain.com ]
+- Phone: [ (000) 000-0000 ]
+
+## Pages
+- Home: https://yourdomain.com/
+- Who We Are: https://yourdomain.com/who-we-are.html
+- Expertise: https://yourdomain.com/expertise.html
+- How We Serve: https://yourdomain.com/how-we-serve.html
+- Results: https://yourdomain.com/results.html
+- Testimonials: https://yourdomain.com/testimonials.html
+- Contact: https://yourdomain.com/contact.html

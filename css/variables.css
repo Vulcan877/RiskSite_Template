@@ -1,0 +1,49 @@
+:root {
+  /* Colors - Primary (neutral defaults, replace per site) */
+  --cr-navy: #2B3440;
+  --cr-gold: #8A8F98;
+  --cr-gold-hover: #74787F;
+  --cr-gold-dark: #5C6068;
+  --cr-gold-light: #C7CBD1;
+  --cr-gold-muted: #D8DBDF;
+  --cr-blue: #5B6470;
+
+  /* Colors - Text */
+  --cr-text-dark: #1B2733;
+  --cr-text-primary: #33414F;
+  --cr-text-secondary: #3a4651;
+  --cr-text-tertiary: #56636F;
+  --cr-text-muted: #717f8c;
+  --cr-text-faint: #9aa6b2;
+
+  /* Colors - Backgrounds */
+  --cr-bg-page: #F6F8FA;
+  --cr-bg-white: #FFFFFF;
+  --cr-bg-input: #FAFBFC;
+
+  /* Colors - Borders */
+  --cr-border: #E4E8EC;
+  --cr-border-light: #E9ECEF;
+  --cr-border-input: #E0E4E8;
+  --cr-border-faint: #EDF0F3;
+  --cr-border-blue: #DCE6EE;
+
+  /* Typography */
+  --cr-font-serif: 'Newsreader', Georgia, serif;
+  --cr-font-sans: 'Public Sans', system-ui, -apple-system, sans-serif;
+
+  /* Layout */
+  --cr-max-wide: 1280px;
+  --cr-max-content: 1120px;
+  --cr-max-cases: 1000px;
+  --cr-max-prose: 760px;
+  --cr-max-prose-wide: 900px;
+  --cr-gutter: 40px;
+  --cr-nav-height: 74px;
+
+  /* Borders */
+  --cr-radius-sm: 2px;
+  --cr-radius-md: 3px;
+  --cr-radius-lg: 4px;
+  --cr-radius-icon: 8px;
+}
