@@ -277,8 +277,8 @@
   border: 1px solid var(--cr-border-light);
   border-radius: var(--cr-radius-md);
   overflow: hidden;
-  display: grid;
-  grid-template-columns: 1.55fr 1fr;
+  display: flex;
+  flex-direction: column;
 }
 
 .case-body {
@@ -324,10 +324,7 @@
 
 .case-outcome {
   background: var(--cr-navy);
-  padding: 38px 34px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  height: 300px;
 }
 
 .case-outcome-img {
@@ -335,11 +332,6 @@
   height: 100%;
   object-fit: cover;
   display: block;
-  border-radius: var(--cr-radius-sm);
-}
-
-.case-outcome-img--contain {
-  height: auto;
 }
 
 /* ============ CTA BAND ============ */
