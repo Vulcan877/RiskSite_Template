@@ -53,6 +53,15 @@
     border-bottom: none;
   }
 
+  .nav-link--contact {
+    display: block;
+    margin-top: 6px;
+    padding-top: 14px;
+    border-top: 1px solid var(--cr-border);
+    color: var(--cr-gold-dark);
+    font-weight: 600;
+  }
+
   .nav-link.active::after {
     bottom: 10px;
   }

@@ -62,6 +62,10 @@ header {
   gap: 25px;
 }
 
+.nav-link--contact {
+  display: none;
+}
+
 .nav-link {
   position: relative;
   color: var(--cr-text-primary);
