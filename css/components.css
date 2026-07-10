@@ -251,15 +251,6 @@
   gap: 13px;
 }
 
-.testimonial-avatar {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  background: repeating-linear-gradient(135deg, #e9edf1 0 7px, #e2e7ec 7px 14px);
-  border: 1px solid var(--cr-border);
-  flex: none;
-}
-
 .testimonial-name {
   font: 600 14px var(--cr-font-sans);
   color: var(--cr-navy);
